@@ -1,6 +1,6 @@
 {
   "name": "m-ui05",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "组件库教程",
   "main": "dist/index.umd.js",
   "keywords": [
