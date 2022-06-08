@@ -18,18 +18,18 @@ npm run build
 ### 快速开始
 #### 1.安装组件库
 ```bash
-npm i m-ui0
+npm i m-ui04
 ```
 #### 2.引用组件库
 ```javascript
 //全部引入
-import 'm-ui0/dist/css/index.css';
-import MUI from 'm-ui0';
+import 'm-ui04/dist/css/index.css';
+import MUI from 'm-ui04';
 Vue.use(MUI)
 
 //按需引入
 import 'm-ui0/dist/css/button.css';
-import {Button} from 'm-ui0';
+import {Button} from 'm-ui04';
 Vue.use(Button);
 ```
 ### Lints and fixes files
