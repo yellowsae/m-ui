@@ -1,10 +1,10 @@
 {
-  "name": "m-ui04",
-  "version": "0.1.2",
+  "name": "m-ui05",
+  "version": "0.1.0",
   "description": "组件库教程",
   "main": "dist/index.umd.js",
   "keywords": [
-    "m-ui04",
+    "m-ui05",
     "vue",
     "ui"
   ],
